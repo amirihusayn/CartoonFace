@@ -1,4 +1,4 @@
 # CartoonFace
 My cartoon face illustrations.
 
-![Ali Farhadian](../Faces/Ali Farhadian-NoBackground.svg "Ali Farhadian")
+![Ali Farhadian](https://github.com/amirihusayn/CartoonFace/blob/main/Faces/Ali%20Farhadian-NoBackground.svg "Ali Farhadian")
